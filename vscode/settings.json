@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 16,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "terminal.integrated.fontFamily": "Iosevka",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "eslint.validate": ["javascript", "typescript"],
+    "rust-analyzer.diagnostics.disabled": ["unresolved-proc-macro"]
+}
